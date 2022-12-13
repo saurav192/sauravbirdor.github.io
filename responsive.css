@@ -1,0 +1,254 @@
+@media only screen and (max-width: 1027px) {
+    .container {
+        width: 100% !important;
+    }
+
+    .bird-5 img {
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 998px)
+{
+    .title6 form .half {
+        width: 41%;
+    }
+    .mar-le-65
+    {
+        margin-left: 73px;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .bg_bird img {
+        width: 60%;
+        margin: 30px auto;
+        display: block;
+    }
+
+    .sec2 {
+        padding: 10px 0px;
+    }
+
+    .title {
+        text-align: center;
+        padding: 0px;
+        margin: 0px;
+    }
+    .title h1,.title h2
+    {
+        font-size: 55px;
+    }
+    .title p
+    {
+        font-size: 16px;
+    }
+    .bg_button2 .btn {
+        margin: auto;
+        display: block;
+    }
+
+    .logo {
+        width: 65%;
+    }
+
+    .logo img {
+        width: 40%;
+    }
+    .sec3 {
+        background: none;
+        background-size: cover;
+        height: auto;
+        background-color: #646464;
+    }
+    .title2
+    {
+        text-align: center;
+    }
+    .title2 p {
+        float: none;
+        width: 100%;
+        text-align: center;
+        padding: 20px;
+    }
+    .title2 h1
+    {
+        float: none;
+        width: 100%;
+    }
+    .title3
+    {
+        text-align: center;
+    }
+    .title3 p
+    {
+        width: 100%;
+    }
+    .bg_button3 
+    {
+        float: none;
+        display: block;
+        margin: auto;
+        margin-top: 25px;
+    }
+    .bird-1 img {
+        width: 80%;
+        display: block;
+        margin: auto;
+    }
+    .bg_button4 {
+        float: none;
+        display: block;
+        margin: auto;
+        width: 30%;
+        margin-top: 30px;
+    }
+    .bg_button4 .btn {
+        display: block;
+        margin: auto;
+    }
+    .title4 h1{
+        float: none;
+        text-align: center;
+    }
+    .title4 p{
+        float: none;
+        text-align: center;
+        width: 100%;
+        padding: 25px;
+    }
+    .green_bird img {
+        width: 85%;
+        margin: auto;
+        display: block;
+    }
+    .bird-5 img {
+        width: 85%;
+        display: block;
+        margin: auto;
+    }
+    .title5 h1
+    {
+        text-align: center;
+    }
+    .title5 p
+    {
+        text-align: center;
+        width: 100%;
+        float: none;
+        padding: 25px;
+    }
+    .info {
+        text-align: center;
+        margin: 46px;
+    }
+    .copyright {
+        width: 100%;
+        float: left;
+    }
+    .copyright p
+    {
+        text-align: center;
+        float: none;
+    }
+    .title6 form button {
+        width: 40%;
+        padding: 5px;
+        float: none;
+        display: block;
+        margin: auto;
+        margin-bottom: 25px;
+    }
+    .padd
+    {
+        margin-bottom: 25px;
+    }
+    .title6 h1{
+        text-align: center;
+    }
+    .title6 form input{
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .header {
+        width: 40%;
+        float: right;
+    }
+
+    .logo {
+        width: 50%;
+    }
+
+    .logo img {
+        width: 60%;
+    }
+    .mar-le-65
+    {
+        margin-left: 73px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .logo
+    {
+        width: 40%;
+    }
+    .logo img {
+        width: 100%;
+        margin: auto;
+        display: block;
+    }
+    .header
+    {
+        width: 53%;
+    }
+    .mail input {
+        width: 72%;
+    }
+    .bg_button5 {
+        width: 28%;
+    }
+}
+@media only screen and (max-width: 450px){
+    .title6 form .half{
+        width: 100%;
+        margin: 0px;
+        margin-top: 15px;
+    }
+    .title h1,.title h2
+    {
+        font-size: 30px;
+        margin: 5px;
+        line-height: unset; 
+    }
+    .title2 h1
+    {
+        font-size: 30px;
+        margin-top: 70px;
+    }
+    .sec3{
+        padding-bottom: 70px;
+    }
+    .title3 h1,.title4 h1,.title5 h1{
+        font-size: 25px;
+    }
+    .title5 p{
+        font-size: 14px;
+    }
+    .title6 h1{
+        font-size: 30px;
+    }
+    .title6 form button {
+        width: 30%;
+        padding: 5px;
+        font-size: 20px;
+    }
+    .info h1{
+        font-size: 25px;
+    }
+    .info{
+        margin-top: 20px;
+    }
+    .logo2 img {
+        width: 49%;
+    }
+}
